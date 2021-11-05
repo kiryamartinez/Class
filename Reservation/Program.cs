@@ -38,7 +38,6 @@ namespace Reservation
             }
         }
     }
-
     class Table
     {
         private int _number;
@@ -69,5 +68,4 @@ namespace Reservation
             }
         }
     }
-
 }
